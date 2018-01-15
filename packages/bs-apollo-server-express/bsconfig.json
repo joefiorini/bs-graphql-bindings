@@ -1,5 +1,6 @@
 {
   "name": "bs-apollo-server-express",
+  "refmt": 3,
   "sources": [
     "src",
     {
@@ -7,11 +8,6 @@
       "type": "dev"
     }
   ],
-  "bs-dependencies": [
-    "bs-express",
-    "bs-graphql"
-  ],
-  "bs-dev-dependencies": [
-    "bs-jest"
-  ]
+  "bs-dependencies": ["bs-express", "bs-graphql"],
+  "bs-dev-dependencies": ["bs-jest"]
 }

@@ -309,11 +309,19 @@ browser-resolve@^1.11.2:
   dependencies:
     resolve "1.1.7"
 
+bs-graphql@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/bs-graphql/-/bs-graphql-0.3.1.tgz#799a56554dafa362b18beba8f30ba94eb450d8f0"
+
 bs-jest@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/bs-jest/-/bs-jest-0.1.0.tgz#33c3a81d4980ec8dde97b5c8398c5388df26b859"
   dependencies:
     jest "^19.0.2"
+
+bs-platform@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-2.1.0.tgz#63560ff8f7142c9c0631559df1c35590b9f6d8b2"
 
 bser@1.0.2:
   version "1.0.2"

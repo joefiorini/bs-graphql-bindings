@@ -1,5 +1,6 @@
 {
   "name": "bs-graphql-tools",
+  "refmt": 3,
   "sources": [
     "src",
     {
@@ -7,10 +8,6 @@
       "type": "dev"
     }
   ],
-  "bs-dependencies": [
-    "bs-graphql"
-  ],
-  "bs-dev-dependencies": [
-    "bs-jest"
-  ]
+  "bs-dependencies": ["bs-graphql"],
+  "bs-dev-dependencies": ["bs-jest"]
 }
